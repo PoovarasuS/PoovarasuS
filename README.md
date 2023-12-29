@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Java developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poovarasus&label=Profile%20views&color=0e75b6&style=flat" alt="poovarasus" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=poovarasus&label=Profile%20views&color=0e75b6&style=flat" alt="poovarasus" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
